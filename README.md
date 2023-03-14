@@ -3,7 +3,7 @@
 My CSDN: [蔡梦缘 https://blog.csdn.net/caimengyuan](https://blog.csdn.net/caimengyuan)
 
 - 🌱 I’m currently learning Rust/gRPC/Netty/Docker/Kubernetes/Dapr/ServiceMesh/Serverless
-- [Nacos](https://github.com/alibaba/nacos)'s Contributor
+- [Nacos](https://github.com/alibaba/nacos)'s Committer
 - Creator of nacos-sdk-rust and contribute to [nacos-group/nacos-sdk-rust](https://github.com/nacos-group/nacos-sdk-rust.git)
 - TODO
 
@@ -24,7 +24,7 @@ My CSDN: [蔡梦缘 https://blog.csdn.net/caimengyuan](https://blog.csdn.net/cai
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CherishCai&show_icons=true&theme=radical&cache_seconds=1800&locale=en" alt="CherishCai" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CherishCai" alt="CherishCai" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CherishCai&column=-1" alt="CherishCai" /></a> </p>
 
 <!--
 **CherishCai/CherishCai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
