@@ -3,10 +3,16 @@
 My CSDN: [蔡梦缘 https://blog.csdn.net/caimengyuan](https://blog.csdn.net/caimengyuan)
 
 - 🌱 I’m currently learning Rust/gRPC/Netty/Docker/Kubernetes/Dapr/ServiceMesh/Serverless
-- [Nacos](https://github.com/alibaba/nacos)'s Committer
-- Creator of nacos-sdk-rust and contribute to [nacos-group/nacos-sdk-rust](https://github.com/nacos-group/nacos-sdk-rust.git)
-- TODO
-
+- [Nacos]'s Committer
+- Creator of nacos-group/[nacos-sdk-rust], and binding for Node [nacos-sdk-rust-binding-node], for Python [nacos-sdk-rust-binding-py]
+- 偶尔关注(Occasionally follow):
+  - Rust 生态: [Tokio]/[tonic]/[Monoio]/[Zino]/[Tauri]/[rustdesk]/...
+  - 微服务(MicroService): [Dubbo]/[RocketMQ]/[Seata]/[SOFAServerless]/...
+  - 可观测(Telemetry): [SkyWalking]/[Pyroscope]/[Hertzbeat]/[OpenObserve]/[cilium]/...
+  - 数据库(Database): [GreptimeDB]/[Databend]/[Risingware]/[Vector]/...
+  - 云原生(CNCF): [Kuasar]/[Wasmtime]/[WasmEdge]/[linkerd2-proxy]/...
+  - 网关(Gateway): [Sōzu]/[Higress]/[Envoy]/[Tengine]/...
+  - 基础(Basic): [Hickory-DNS]/Quic/HTTP3/[Occlum]/[Kata-Containers]/[rustls]/...
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -25,6 +31,47 @@ My CSDN: [蔡梦缘 https://blog.csdn.net/caimengyuan](https://blog.csdn.net/cai
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CherishCai&show_icons=true&theme=radical&cache_seconds=1800&locale=en" alt="CherishCai" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CherishCai&column=-1" alt="CherishCai" /></a> </p>
+
+[Tokio]: https://github.com/tokio-rs/tokio
+[tonic]: https://github.com/hyperium/tonic
+[Monoio]: https://github.com/bytedance/monoio
+[Zino]: https://github.com/zino-rs/zino
+[Tauri]: https://github.com/tauri-apps/tauri
+[rustdesk]: https://github.com/rustdesk/rustdesk
+
+[nacos-sdk-rust]: https://github.com/nacos-group/nacos-sdk-rust
+[nacos-sdk-rust-binding-node]: https://github.com/opc-source/nacos-sdk-rust-binding-node
+[nacos-sdk-rust-binding-py]: https://github.com/opc-source/nacos-sdk-rust-binding-py
+[Nacos]: https://github.com/alibaba/nacos
+[Dubbo]: https://github.com/apache/dubbo
+[RocketMQ]: https://github.com/apache/rocketmq
+[Seata]: https://github.com/apache/incubator-seata
+[SOFAServerless]: https://github.com/sofastack/sofa-serverless
+
+[SkyWalking]: https://github.com/apache/skywalking
+[Pyroscope]: https://github.com/grafana/pyroscope
+[Hertzbeat]: https://github.com/dromara/hertzbeat
+[OpenObserve]: https://github.com/openobserve/openobserve
+[cilium]: https://github.com/cilium/cilium
+
+[Databend]: https://github.com/datafuselabs/databend
+[GreptimeDB]: https://github.com/GreptimeTeam/greptimedb
+[Risingware]: https://github.com/risingwavelabs/risingwave
+[Vector]: https://github.com/vectordotdev/vector
+
+[Kuasar]: https://github.com/kuasar-io/kuasar
+[Wasmtime]: https://github.com/bytecodealliance/wasmtime
+[WasmEdge]: https://github.com/WasmEdge/WasmEdge
+[linkerd2-proxy]: https://github.com/linkerd/linkerd2-proxy
+[Sōzu]: https://github.com/sozu-proxy/sozu
+[Higress]: https://github.com/alibaba/higress
+[Envoy]: https://github.com/envoyproxy/envoy
+[Tengine]: https://github.com/alibaba/tengine
+
+[Hickory-DNS]: https://github.com/hickory-dns
+[Occlum]: https://github.com/occlum
+[Kata-Containers]: https://github.com/kata-containers
+[rustls]: https://github.com/rustls
 
 <!--
 **CherishCai/CherishCai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
