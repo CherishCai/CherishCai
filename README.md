@@ -2,18 +2,19 @@
 
 My CSDN: [蔡梦缘 https://blog.csdn.net/caimengyuan](https://blog.csdn.net/caimengyuan)
 
-- 🌱 I’m currently learning Rust/gRPC/Netty/Docker/Kubernetes/Dapr/ServiceMesh/Serverless
+- 🌱 I’m currently learning Rust/Telemetry/AI
 - [Nacos]'s Committer
 - Creator of nacos-group/[nacos-sdk-rust]
   - and binding for NodeJS [nacos-sdk-rust-binding-node], for Python [nacos-sdk-rust-binding-py]
 - 偶尔关注(Occasionally follow):
+  - AI 生态: [LangChain]/[PyTorch]/[Kineto]/[Dynolog]/[Candle]/[Burn]/...
   - Rust 生态: [Tokio]/[tonic]/[Monoio]/[Zino]/[Tauri]/[rustdesk]/...
   - 微服务(MicroService): [Dubbo]/[RocketMQ]/[Seata]/[SOFAServerless]/...
   - 可观测(Telemetry): [SkyWalking]/[Pyroscope]/[Hertzbeat]/[OpenObserve]/[DeepFlow]/[cilium]/...
-  - 数据库(Database): [GreptimeDB]/[Databend]/[Risingware]/[Vector]/...
+  - 数据库(Database): [GreptimeDB]/[Databend]/[Risingware]/[Vector]/[Qdrant]/...
   - 云原生(CNCF): [Kuasar]/[Wasmtime]/[WasmEdge]/[linkerd2-proxy]/...
-  - 网关(Gateway): [Sōzu]/[Higress]/[Envoy]/[Tengine]/...
-  - 基础(Basic): [Hickory-DNS]/Quic/HTTP3/[Occlum]/[Kata-Containers]/[rustls]/...
+  - 网关(Gateway): [River]/[Pingora]/[Sōzu]/[Higress]/[Envoy]/[Tengine]/...
+  - 基础(Basic): [Asterinas]/[Hickory-DNS]/Quic/HTTP3/[Occlum]/[Kata-Containers]/[rustls]/...
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -32,6 +33,13 @@ My CSDN: [蔡梦缘 https://blog.csdn.net/caimengyuan](https://blog.csdn.net/cai
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CherishCai&show_icons=true&theme=radical&cache_seconds=1800&locale=en" alt="CherishCai" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CherishCai&column=-1" alt="CherishCai" /></a> </p>
+
+[LangChain]: https://github.com/langchain-ai/langchain
+[PyTorch]: https://github.com/pytorch/pytorch
+[Kineto]: https://github.com/pytorch/kineto
+[Dynolog]: https://github.com/facebookincubator/dynolog
+[Candle]: http://github.com/huggingface/candle
+[Burn]: https://github.com/tracel-ai/burn
 
 [Tokio]: https://github.com/tokio-rs/tokio
 [tonic]: https://github.com/hyperium/tonic
@@ -60,16 +68,21 @@ My CSDN: [蔡梦缘 https://blog.csdn.net/caimengyuan](https://blog.csdn.net/cai
 [GreptimeDB]: https://github.com/GreptimeTeam/greptimedb
 [Risingware]: https://github.com/risingwavelabs/risingwave
 [Vector]: https://github.com/vectordotdev/vector
+[Qdrant]: https://github.com/qdrant/qdrant
 
 [Kuasar]: https://github.com/kuasar-io/kuasar
 [Wasmtime]: https://github.com/bytecodealliance/wasmtime
 [WasmEdge]: https://github.com/WasmEdge/WasmEdge
 [linkerd2-proxy]: https://github.com/linkerd/linkerd2-proxy
+
+[River]: https://github.com/memorysafety/river
+[Pingora]: http://github.com/cloudflare/pingora
 [Sōzu]: https://github.com/sozu-proxy/sozu
 [Higress]: https://github.com/alibaba/higress
 [Envoy]: https://github.com/envoyproxy/envoy
 [Tengine]: https://github.com/alibaba/tengine
 
+[Asterinas]: https://github.com/asterinas/asterinas
 [Hickory-DNS]: https://github.com/hickory-dns
 [Occlum]: https://github.com/occlum
 [Kata-Containers]: https://github.com/kata-containers
